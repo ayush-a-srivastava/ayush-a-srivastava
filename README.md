@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Ayush Srivastava
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.linkedin.com/in/aysr)
 ## 🚀 Software Developer Engineer in Test (SDET)
 
 Welcome to my GitHub profile! I'm a passionate SDET with **6.8+ years** of experience in designing scalable test automation frameworks for UI and API systems across cloud, SaaS, and firmware domains.
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 ### 🎯 What I Do
 - **Test Automation**: Building robust automation frameworks using Selenium, Playwright, and PyTest
@@ -12,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate SDET with **6.8+ years** of exper
 - **Team Leadership**: Mentoring junior engineers and driving quality initiatives
 
 ### 🛠️ Tech Stack
-
 #### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
